@@ -224,7 +224,7 @@ nav {
 @media (min-width: 0px) and (max-width: 768px) {
     .hero__section {
         /*height: 90vh;*/
-        height: min(80vh - 88px);
+        height: min(100vh - 88px);
         grid-template-rows: repeat(5, auto);
     }
     .hero__header__section {
