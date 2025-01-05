@@ -18,6 +18,15 @@
 
 Whether you're showcasing your portfolio, promoting services, or sharing ideas, NutureHub's static website template provides a solid foundation to build upon. Start your online journey today with NutureHub!
 
+**Technologies Used:**
+
+**Frontend:** ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+
+**GitHub Link:** [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sally-Builds/nuturehub.github.io)
+
+**Website Link:** [![Link](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)](https://sally-builds.github.io/nuturehub.github.io/)
+
+
 
 # Contributors
 
